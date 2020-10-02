@@ -8,7 +8,7 @@ class Student {
 
   String get Details {
     //getter method of class
-    return "Nmae:${this._name}\nRoll. NO. ${this._roll}";
+    return "Name:${this._name}\nRoll. NO. ${this._roll}";
   }
 
   void set Name(String name) {
